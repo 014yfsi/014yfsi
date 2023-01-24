@@ -4,6 +4,8 @@ I'm a graphic designer learning programming, that's all.
 
 - Im_currently_learning = **"Python and programming in general."**
 
+- Average computer technician
+
 - You can contact me through discord as **! z014yfsi_#0014**
 
 - **Open comms > Graphic Designer**
