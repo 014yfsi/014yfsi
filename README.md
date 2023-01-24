@@ -1,19 +1,14 @@
-``` 014.exeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯⠀❐⠀⤬ ```
-
-<h1 align="center">👋 :: sup there, @014yfsi here.</h1>
-<h3 align="center">#Attempted programmer lol</h3>
+    👋 :: sup there, @014yfsi here                                                                                              ⎯⠀❐⠀⤬
+I'm a graphic designer learning programming, that's all.
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/2716461/screenshots/11013019/graphic_design_icon_-_animation_dribbble_gif.gif">
 
+- Im_currently_learning = **"Python and programming in general."**
 
-<p align="left"> <a href="https://twitter.com/014yfsi" target="blank"><img src="https://img.shields.io/twitter/follow/014yfsi?logo=twitter&style=for-the-badge" alt="014yfsi" /></a> </p>
+- You can contact me through discord as **! z014yfsi_#0014**
 
-- 📝 Im_currently_learning = **"Python and programming in general."**
+- **Open comms > Graphic Designer**
 
-- 🔍 You can contact me through discord :: **! z014yfsi_#0014**
-
-- ⚡ :: **Imma Graphic designer n' video editor on comms lol**
-
-- 🗨 **ñ / EN.**
+- **ñ / ENG.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
