@@ -2,9 +2,9 @@
 I'm a graphic designer learning programming, that's all.
 <img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/2716461/screenshots/11013019/graphic_design_icon_-_animation_dribbble_gif.gif">
 
-- learning = **"Python and programming in general."**
-
 - Average computer technician
+
+- learning = **"Python and programming in general."**
 
 - Contact me through discord as **! z014yfsi_#0014**
 
