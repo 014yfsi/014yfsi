@@ -4,7 +4,7 @@ I'm a graphic designer learning programming, that's all.
 
 - Average computer technician
 - learning = **"Python and programming in general."**
-- Contact me through discord as **! z014yfsi_#0014**
+- Contact me through discord as **! z014yfsi_#2916**
 - **Open comms > Graphic Designer**
 - **ñ / ENG.**
 
